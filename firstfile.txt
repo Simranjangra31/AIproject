@@ -1,2 +1,8 @@
 any changes
 new,delete,edit------------------ commit changes
+
+create a txt file inside a local repository.
+
+edit a txt file inside the local repository add and commit.
+
+delete a txt file inside the local repository add and commit.
